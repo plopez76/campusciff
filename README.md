@@ -7,6 +7,11 @@ EJERCICIOS GIT.
 2.3 cd campusciff # Me situo dentro de campusciff
     touch README.md # Creo el archivo README.md
     notepad README.md #Cambié por defecto el editor de texto a notepad porque me resulta mas amigable; el comando que                        utilicé fue: git config --global core.editor notepad.
-    git add README.md #añado README.md a Staging area
+    git add . #añado README.md a Staging area
 2.4 git commit -m'commit inicial' subo README.md a mi repositorio local
 2.5 git push -u origin master #Subo README.md a mi repositorio remoto
+2.6 mkdir privada # Creo el directorio privada
+    touch privado.txt # Creo el archivo privado.txt
+2.7 touch .gitignore # Creo el archivo .gitignore
+    echo privado.txt > .gitignore # Añado privado.txt a la lista de excepciones
+    echo privada/ >> .gitignore # Añado privada a la lista de excepciones
