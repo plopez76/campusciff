@@ -41,5 +41,19 @@
 **2.20** git tag v0.2 # Creo tag v0.2  
          git branch -d v0.2 # Borro la rama v0.2  
 **2.21** git log  
-
+**2.23**  
+## TABLA DE USUARIOS GIT  
+  
+| NOMBRE | GITHUB |  
+| ------ | ------ |  
+| Carlos Alberto Paz Santos | [cpazsantos](http://github.com/cpazsantos) |  
+| Cristóbal Rodríguez Fraile | [crisrodfra](http://github.com/crisrodfra) |  
+| Julián Gómez Cuadrado | [CIFFjuliangomez](http://github.com/CIFFjuliangomez) |  
+| Miguel Ángel Ruiz González | [miguelrg22](http://github.com/miguelrg22) |  
+| Patricia Iglesias Mateos | [Pimateos](http://github.com/Pimateos) |  
+| Ulises Ojeda Ogando | [ulisesojeda](http://github.com/ulisesojeda) |  
+| Amalia Suarez García | [asuarezg](http://github.com/asuarezg) |  
+| Diego Martín Castellanos | [diegomartincastellanos](http://github.com/diegomartincastellanos) |  
+| Sergio Torres Palomino | [sergiotorrespalomino](http://github.com/sergiotorrespalomino) |  
+| Jose Antonio Rita Gordillo | [jaritgor](http://github.com/jaritgor) |  
 
