@@ -1,5 +1,6 @@
 # EJERCICIOS GIT.
 
+Añadido nombre jaritgor
 **2.00** 
   
          cd Ejercicios_Git # Me situo en la carpeta que quiero que sea mi Repositorio local  
